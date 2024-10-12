@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Atv3Ex1Combustivel</string>
+    <string name="nome_aluno">Matheus Augusto Marti</string>
+    <string name="ra_aluno">RA: 1110482313017</string>
+    <string name="combustivel_titulo">Cálculo de Combustível</string>
+    <string name="valor_gasolina">Insira o valor do litro da gasolina</string>
+    <string name="valor_etanol">Insira o valor do litro do etanol</string>
+    <string name="calcular">Calcular</string>
+    <string name="res_gasolina">Reabasteça com gasolina!</string>
+    <string name="res_etanol">Reabasteça com etanol!</string>
+</resources>
